@@ -15,7 +15,7 @@ To run the Fibonacci service, checkout the code from https://github.com/digital-
 This will now start the Fibonacci Service
 
 ## To run the API tests 
-* Clone the repoitory https://github.com/sivvaa/Fibonacci and run the command `mvn clean test -Durl=http://localhost:7003/fib`
+* Clone the repoitory https://github.com/sivvaa/Fibonacci and run the following command <br>`mvn clean test -Durl=http://localhost:7003/fib`
   If the Service is running on another machine, please change the url accordingly.
 * There are only three positive tests written.
 
