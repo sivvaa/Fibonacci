@@ -21,3 +21,10 @@ This will now start the Fibonacci Service
 
 * If the `finishIndex` in the Query param is less than or equal to `startIndex`, the service does not return any numbers.
 
+## What can be done if some more time is allowed 
+* Adding additional Poitive and Negative tests.
+* Adding Exceptional handling.
+* Programming to interface rather than a Class directly 
+  
+
+
