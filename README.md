@@ -3,7 +3,7 @@ Fibonacci API Tests
 
 <b>The Tests are wtitten using RESTEasy, Java, Junit and Maven</b>
 * com.academy.dd.FibonacciTest.java - Contain all the Tests
-* com.academy.dd.apiCall.ApiCall.java - Contain the method to call APIs
+* com.academy.dd.apiCall.ApiCall.java - Contains the methods to call APIs
 
 ## Prerequisites
 * Java 8 installed and configured the JAVA_HOME environment variable
