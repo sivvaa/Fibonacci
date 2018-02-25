@@ -23,7 +23,10 @@ This will now start the Fibonacci Service
 
 ## What can be done if some more time is allowed 
 * Adding additional Poitive and Negative tests.
+* Adding Test Suites.
 * Adding Exceptional handling.
+* Adding Log.
+* Reporting.
 * Programming to interface rather than a Class directly 
   
 
