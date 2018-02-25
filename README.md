@@ -19,5 +19,5 @@ This will now start the Fibonacci Service
   If the Service is running on another machine, please change the url accordingly.
 * There are only three positive tests written.
 
-* If `finishIndex` in the Query param is less than or equal to `startIndex`, the service does not return any numbers.
+* If the `finishIndex` in the Query param is less than or equal to `startIndex`, the service does not return any numbers.
 
