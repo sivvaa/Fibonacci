@@ -11,7 +11,7 @@ Fibonacci API Tests
 * IntelliJ IDE for a code walk through (optional)
 
 * The Fibonacci Serivemust be running.
-To run the Fibonacci service, checkout the code from https://github.com/digital-delivery-academy/fibonacci-rest and run <br> `mvn clean  install` and then <br> `mvn exec:java -Dexec.mainClass="academy.dd.fibonacci.App"` <br>
+To run the Fibonacci service, checkout the code from https://github.com/digital-delivery-academy/fibonacci-rest and run <br> `mvn clean  install` <br>and then <br> `mvn exec:java -Dexec.mainClass="academy.dd.fibonacci.App"` <br>
 This will now start the Fibonacci Service
 
 ## To run the API tests 
